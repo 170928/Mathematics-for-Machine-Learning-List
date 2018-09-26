@@ -23,3 +23,6 @@ https://mathematical-coffees.github.io/mc13-advanced-ml/
 
 Mathematics for Computer Science (MIT)	  
 https://ocw.mit.edu/.../6-042j.../video-lectures/  
+
+khan-academy
+https://www.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function
