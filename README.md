@@ -26,3 +26,6 @@ https://ocw.mit.edu/.../6-042j.../video-lectures/
 
 khan-academy
 https://www.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function
+
+Convex Optimization
+https://wikidocs.net/20584
